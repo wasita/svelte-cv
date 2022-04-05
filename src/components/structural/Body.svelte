@@ -177,7 +177,7 @@
 		details: [
 			{
 				year: 'April 2022',
-				description: 'NSF GRFP Honorable Mention'
+				description: 'NSF Graduate Research Fellowship Honorable Mention'
 			},
 			{
 				year: 'May 2018',
@@ -199,7 +199,7 @@
 			},
 			{
 				year: 'Spring 2014',
-				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($3,500) from Brown University'
+				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($1,000) from Brown University'
 			},
 			{
 				year: 'Spring 2014',
