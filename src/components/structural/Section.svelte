@@ -6,6 +6,7 @@
 	import MinimalDetails from '../sections/MinimalDetails.svelte';
 	import ResearchExps from '../sections/ResearchExps.svelte';
 	import TeachingExps from '../sections/TeachingExps.svelte';
+	import PressieDetails from '../sections/PressieDetails.svelte';
 
 	export let label;
 	export let details;
@@ -19,6 +20,8 @@
 		<SimpleDetails {label} {details} />
 	{:else if type === 'minimal-details'}
 		<MinimalDetails {details} />
+	{:else if type === 'pressie-details'}
+		<PressieDetails {details} />
 	{:else if type === 'full-details'}
 		<FullDetails {details} />
 	{:else if type === 'research-exps'}

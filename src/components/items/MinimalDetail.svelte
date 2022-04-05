@@ -3,12 +3,12 @@
 </script>
 
 <style>
-	.simple-detail:last-child {
+	.minimal-details:last-child {
 		margin-bottom: 6px;
 	}
 </style>
 
-<div class="minimal-detail detail-container">
+<div class="minimal-details detail-container">
 	<div class="bottom">
 		{#if description}
 			<div class="description">{description}</div>
