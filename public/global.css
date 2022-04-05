@@ -15,6 +15,7 @@
 	--dark-prelude: #836fe7;
 	--prelude: #c9c2ed;
 	--black: #000;
+	--regent-st-blue: #a7d8e5;
 
 	/* ADJUST SPACING */
 	--main-column-width: 100%;
@@ -56,7 +57,7 @@ a {
 }
 
 /*  purple squigglies on hover :^) */
-a:hover {
+/* a:hover {
 	color: var(--dark-prelude);
 	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 -2 20 8'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift 1s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23c9c2ed' stroke-width='3' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
 	background-position: 0 100%;
@@ -64,8 +65,15 @@ a:hover {
 	background-repeat: repeat-x;
 	text-decoration: none;
 	border-bottom: none;
-}
+} */
 
+/* cotton candy gradient */
+a:hover {
+	background: linear-gradient(to left, var(--prelude), var(--regent-st-blue) 100%);
+	background-position: 0 100%;
+	background-size: 100% 2.5px;
+	background-repeat: repeat-x;
+}
 
 label {
 	display: block;
