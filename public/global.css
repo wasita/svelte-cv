@@ -11,9 +11,11 @@
 	--grey-mid-dark: #545454;
 	--grey-mid: #717171;
 	--grey-light: #d5d5d5;
+	--wisteria: #dca7e5;
+	--prelude: #c9c2ed;
 
 	/* ADJUST SPACING */
-	--main-column-width: 65%;
+	--main-column-width: 85%;
 	--vertical-space-between-sections: 0.8rem;
 	--vertical-space-between-subsections: 0.7rem;
 	--horizontal-space-between-columns: 25px;
@@ -22,7 +24,8 @@
 
 	/* ADJUST APPEARANCE */
 	/* --column-order: row-reverse; */
-	/* --more-centered: center; */
+	/* below centers titles of sections */
+	/* --more-centered: center;  */
 }
 
 
@@ -33,6 +36,7 @@ body {
 	position: relative;
 	width: 100%;
 	height: 100%;
+	font-family: 'Lato', sans-serif;
 }
 
 body {
@@ -47,6 +51,7 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: none;
+	border-bottom: dotted 1 px rgba(128, 128, 128, 0.5);
 }
 
 label {

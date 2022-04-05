@@ -3,6 +3,7 @@
 	import Skills from '../sections/Skills.svelte';
 	import FullDetails from '../sections/FullDetails.svelte';
 	import SimpleDetails from '../sections/SimpleDetails.svelte';
+	import MinimalDetails from '../sections/MinimalDetails.svelte';
 	export let label;
 	export let details;
 	export let type;
@@ -13,8 +14,10 @@
 	<hr class="section-underline" />
 	{#if type === 'simple-details'}
 		<SimpleDetails {label} {details} />
+	{:else if type === 'minimal-details'}
+		<MinimalDetails {details} />
 	{:else if type === 'full-details'}
-		<FullDetails {label} {details} />
+		<FullDetails {details} />
 	{:else if type === 'skills'}
 		<Skills {label} {details} />
 	{:else if type === 'contact'}
