@@ -7,6 +7,7 @@
 	import ResearchExps from '../sections/ResearchExps.svelte';
 	import TeachingExps from '../sections/TeachingExps.svelte';
 	import PressieDetails from '../sections/PressieDetails.svelte';
+	import HonorsDetails from '../sections/HonorsDetails.svelte';
 
 	export let label;
 	export let details;
@@ -28,6 +29,8 @@
 		<ResearchExps {details} />
 	{:else if type === 'teaching-exps'}
 		<TeachingExps {details} />
+	{:else if type === 'honors-details'}
+		<HonorsDetails {details} />
 	{:else if type === 'skills'}
 		<Skills {label} {details} />
 	{:else if type === 'contact'}

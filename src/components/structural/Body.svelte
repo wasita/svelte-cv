@@ -18,7 +18,7 @@
 				{
 					title: 'Dartmouth College',
 					subtitle: 'Ph.D. Student in Cognitive Neuroscience',
-					dates: '2021 - Present',
+					dates: '2021 — Present',
 					location: 'Hanover, NH',
 					description: 'Advisor: Luke J. Chang',
 				},
@@ -40,7 +40,7 @@
 				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
 				url: 'cosanlab.com',
 				link: 'cosanlab.com',
-				dates: '2021 - Present',
+				dates: '2021 — Present',
 				location: 'Hanover, NH',
 				advisor: 'Advisor: Luke J. Chang',
 				research: 'Research focuses: communication, social cognitive maps, social learning, decision-making',
@@ -50,7 +50,7 @@
 				institution: 'Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)',
 				url: 'lnccbrown.com',
 				link: 'lnccbrown.com',
-				dates: '2018 - 2021',
+				dates: '2018 — 2021',
 				location: 'Providence, RI',
 				advisor: 'Advisor: Michael J. Frank',
 				research: 'Research focuses: computational psychiatry, reinforcement learning, decision-making'
@@ -132,19 +132,19 @@
 		label: 'Talks',
 		details: [
 			{
-				year: 'October, 2021',
+				year: 'October 2021',
 				description: 'On building a chat app for studying shared reality construction in communication. Presented at the Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
 			},
 			{
-				year: 'December, 2020',
-				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. Presented at the Learning, Memory, & Decision Lab at Brown University (PI: Matthew Nassar). Providence, RI.'
+				year: 'December 2020',
+				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. Presented at the Learning, Memory, & Decision Lab (PI: Matthew Nassar). Brown University, Providence, RI.'
 			},
 			{
-				year: 'June, 2020',
-				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. 1st Annual Meeting of Brown Unconference on Computational Intelligence and Applications. Providence, RI.'
+				year: 'June 2020',
+				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. 1st Annual Meeting of Brown Unconference on Computational Intelligence and Applications. Brown University, Providence, RI.'
 			},
 			{
-				year: 'May, 2018',
+				year: 'May 2018',
 				description: 'The costs of having better alternatives. Departmental undergraduate honors thesis oral defense presentation. Brown University, Providence, RI.'
 			}
 		]
@@ -156,18 +156,54 @@
 			{
 				preWM: 'Geana, A.,',
 				postWM: 'Frank, M.J.',
-				year: 'October, 2019',
-				description: 'The role of perceptualuncertainty in value learning and naturalistic stimulus categorization. Presented at the Society for Neurosciecne (SfN). Chicago, IL.'
+				year: 'October 2019',
+				description: 'The role of perceptual uncertainty in value learning and naturalistic stimulus categorization. Presented at the Society for Neurosciecne (SfN). Chicago, IL.'
 			},
 			{
-				year: 'July, 2019',
-				description: 'Perceptual uncertaintyinfl uences stimulus value learning in perceptual categorization. Presented at the 4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM). Montreal, CA.'
+				year: 'July 2019',
+				description: 'Perceptual uncertainty influences stimulus value learning in perceptual categorization. Presented at the 4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM). Montreal, CA.'
 			},
 			{
 				preWM: 'Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S.,Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.,',
 				postWM: 'Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., Goodman, W.',
-				year: 'April, 2019',
+				year: 'April 2019',
 				description: 'Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder. Presented at the 5th Annual BRAIN Investigator’s Meeting. Washington, DC.'
+			}
+		]
+	},
+	{
+		type: 'honors-details',
+		label: 'Awards & Honors',
+		details: [
+			{
+				year: 'April 2022',
+				description: 'NSF GRFP Honorable Mention'
+			},
+			{
+				year: 'May 2018',
+				description: 'B.S. in Cognitive Neuroscience with Honors'
+			},
+			{
+				year: 'May 2018',
+				description: 'Sigma Xi'
+			}
+		]
+	},
+	{
+		type: 'honors-details',
+		label: 'Fellowships & Scholarships',
+		details: [
+			{
+				year: 'Summer 2017',
+				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($3,500) from Brown University'
+			},
+			{
+				year: 'Spring 2014',
+				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($3,500) from Brown University'
+			},
+			{
+				year: 'Spring 2014',
+				description: 'Junior Volunteer Scholarship ($2,000) from Maine Medical Center'
 			}
 		]
 	},
