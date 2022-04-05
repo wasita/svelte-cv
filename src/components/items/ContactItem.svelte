@@ -25,9 +25,9 @@
 		padding-right: 2px; /*	less padding for experience map marker */
 	}
 
-	.simple-detail .contact-item {
+	/* .simple-detail .contact-item {
 		margin-top: 5px;
-	}
+	} */
 </style>
 
 <div class="contact-item">

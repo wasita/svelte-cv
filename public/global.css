@@ -5,20 +5,22 @@
 :root {
 	/* ADJUST COLOR */
 	/* --accent-color: #55777c; */
-	--link-color: #959595;
+	--link-color: #000000;
 	--accent-font: 'Open Sans', sans-serif;
 	--grey-dark: #333;
 	--grey-mid-dark: #545454;
 	--grey-mid: #717171;
 	--grey-light: #d5d5d5;
 	--wisteria: #dca7e5;
+	--dark-prelude: #836fe7;
 	--prelude: #c9c2ed;
+	--black: #000;
 
 	/* ADJUST SPACING */
-	--main-column-width: 85%;
-	--vertical-space-between-sections: 0.8rem;
-	--vertical-space-between-subsections: 0.7rem;
-	--horizontal-space-between-columns: 25px;
+	--main-column-width: 100%;
+	--vertical-space-between-sections: 0.9rem;
+	--vertical-space-between-subsections: 0.8rem;
+	--horizontal-space-between-columns: 30px;
 	--horizontal-offset: -25px;
 	--list-line-height: 1.3em;
 
@@ -51,8 +53,19 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: none;
-	border-bottom: dotted 1 px rgba(128, 128, 128, 0.5);
 }
+
+/*  purple squigglies on hover :^) */
+a:hover {
+	color: var(--dark-prelude);
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 -2 20 8'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift 1s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23c9c2ed' stroke-width='3' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+	background-position: 0 100%;
+	background-size: auto 6px;
+	background-repeat: repeat-x;
+	text-decoration: none;
+	border-bottom: none;
+}
+
 
 label {
 	display: block;
@@ -107,7 +120,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	font-family: 'Lato', sans-serif;
-	font-weight: 300;
+	font-weight: 350;
 }
 
 h1,
@@ -136,11 +149,12 @@ hr.section-underline {
 	margin-bottom: 0;
 }
 
+/* title within details of a 'type' */
 .section-label {
 	margin-bottom: 0;
-	color: var(--accent-color);
+	color: var(--black);
 	font-family: var(--accent-font);
-	font-size: 1.85em;
+	font-size: 1.5em;
 	text-transform: uppercase;
 	text-align: var(--more-centered);
 }
@@ -148,13 +162,13 @@ hr.section-underline {
 .title {
 	display: flex;
 	font-family: var(--accent-font);
-	font-size: 1.3em;
+	font-size: 1.2em;
 	font-weight: 500;
 	justify-content: space-between;
 }
 
 .subtitle {
-	font-weight: 500;
+	font-weight: 300;
 }
 
 .detail-container {
@@ -200,6 +214,18 @@ i {
 
 .description {
 	font-size: 1.02em;
+}
+
+.advisor {
+  font-size: 1.02em;
+}
+
+.institution {
+  font-size: 1.02em;
+}
+
+.research {
+  font-size: 1.02em;
 }
 
 .list {

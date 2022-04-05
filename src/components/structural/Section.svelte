@@ -4,6 +4,9 @@
 	import FullDetails from '../sections/FullDetails.svelte';
 	import SimpleDetails from '../sections/SimpleDetails.svelte';
 	import MinimalDetails from '../sections/MinimalDetails.svelte';
+	import ResearchExps from '../sections/ResearchExps.svelte';
+	import TeachingExps from '../sections/TeachingExps.svelte';
+
 	export let label;
 	export let details;
 	export let type;
@@ -18,6 +21,10 @@
 		<MinimalDetails {details} />
 	{:else if type === 'full-details'}
 		<FullDetails {details} />
+	{:else if type === 'research-exps'}
+		<ResearchExps {details} />
+	{:else if type === 'teaching-exps'}
+		<TeachingExps {details} />
 	{:else if type === 'skills'}
 		<Skills {label} {details} />
 	{:else if type === 'contact'}

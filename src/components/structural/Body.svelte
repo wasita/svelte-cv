@@ -1,76 +1,6 @@
 <script>
-	import SideColumn from './SideColumn.svelte';
 	import MainColumn from './MainColumn.svelte';
 
-	export const sideColumn = [
-		{
-			type: 'contact',
-			label: 'Contact',
-			details: [
-				{
-					subcategory: 'Say hi',
-					contactDetails: [
-						{
-							isLink: true,
-							type: 'email',
-							text: 'wasita.gr@dartmouth.edu',
-							icon: 'email',
-						},
-						{
-							text: 'Hanover, NH',
-							icon: 'location',
-						},
-					],
-				},
-				{
-					subcategory: 'Find me online',
-					contactDetails: [
-						{
-							isLink: true,
-							type: 'web',
-							url: 'wasita.space',
-							text: 'wasita.space',
-						},
-						{
-							isLink: true,
-							type: 'web',
-							url: 'github.com/wasita',
-							text: '/wasita',
-							icon: 'github',
-						},
-						{
-							isLink: true,
-							type: 'web',
-							url: 'linkedin.com/in/wasita-mahaphanit/',
-							text: '/wasita-mahaphanit',
-							icon: 'linkedin',
-						},
-					],
-				},
-			],
-		},
-		{
-			type: 'skills',
-			label: 'Skills',
-			details: [
-				'MATLAB',
-				'PsychToolBox',
-				'Python',
-				'PsychoPy',
-				'R',
-				'JavaScript (ES6)',
-				'JsPsych',
-				'React',
-				'Svelte',
-				'NodeJS',
-				'Firebase',
-				'Socket.io',
-				'HTML',
-				'CSS',
-				'Git'
-			],
-		}
-	];
 	export const mainColumn = [
 			{
 			type: 'minimal-details',
@@ -86,19 +16,105 @@
 			label: 'Education',
 			details: [
 				{
-					title: 'Ph.D. Student in Cognitive Neuroscience',
-					subtitle: 'Dartmouth College | cosanlab.com',
+					title: 'Dartmouth College',
+					subtitle: 'Ph.D. Student in Cognitive Neuroscience',
 					dates: '2021 - Present',
 					location: 'Hanover, NH',
+					description: 'Advisor: Luke J. Chang',
 				},
 				{
-					title: 'B.S., Cognitive Neuroscience (Honors)',
-					subtitle: 'Brown University | shenhavlab.org',
+					title: 'Brown University',
+					subtitle: 'B.S., Cognitive Neuroscience (Honors)',
 					dates: '2014 — 2018',
 					location: 'Providence, RI',
+					description: 'Advisor: Amitai Shenhav'
 				},
 			],
 		},
+		{
+		type: 'research-exps',
+		label: 'Research Experience',
+		details: [
+			{
+				title: 'Graduate Student Researcher',
+				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
+				url: 'cosanlab.com',
+				link: 'cosanlab.com',
+				dates: '2021 - Present',
+				location: 'Hanover, NH',
+				advisor: 'Advisor: Luke J. Chang',
+				research: 'Research focuses: communication, social cognitive maps, social learning, decision-making',
+			},
+			{
+				title: 'Lab Manager/Research Assistant',
+				institution: 'Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)',
+				url: 'lnccbrown.com',
+				link: 'lnccbrown.com',
+				dates: '2018 - 2021',
+				location: 'Providence, RI',
+				advisor: 'Advisor: Michael J. Frank',
+				research: 'Research focuses: computational psychiatry, reinforcement learning, decision-making'
+			},
+			{
+				title: 'Undergraduate Research Assistant',
+				institution: 'Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)',
+				url: 'shenhavlab.org',
+				link: 'shenhavlab.org',
+				dates: '2016 — 2018',
+				location: 'Providence, RI',
+				advisor: 'Advisor: Amitai Shenhav',
+				research: 'Research focuses: cognitive control, performance monitoring, task-switching'
+			},
+			{
+				title: 'Summer Undergraduate Research Intern',
+				institution: 'Providence VA Medical Center',
+				url: 'https://vivo.brown.edu/display/nphilip',
+				link: 'vivo.brown.edu/display/nphilip',
+				dates: '2016 — 2018',
+				location: 'Providence, RI',
+				advisor: 'Advisor: Noah Philip',
+				research: 'Research focuses: major-depressive disorder, post-traumatic stress disorder'
+			},
+		],
+	},
+	{
+		type: 'teaching-exps',
+		label: 'Teaching Experience',
+		details: [
+			{
+				title: 'Graduate Teaching Assistant',
+				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
+				dates: 'Spring 2022',
+				location: 'Hanover, NH',
+				description: 'Emotion',
+				advisor: 'Mark Thornton',
+			},
+			{
+				title: 'Graduate Teaching Assistant',
+				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
+				dates: 'Fall 2021',
+				location: 'Hanover, NH',
+				description: 'Principles of Human Brain Mapping with fMRI',
+				advisor: 'Luke J. Chang',
+			},
+			{
+				title: 'Undergraduate Teaching Assistant',
+				institution: 'Brown University | Dept. of Computer Science',
+				dates: 'Spring 2018',
+				location: 'Providence, RI',
+				description: 'Intro to Scientific Computing and Problem Solving',
+				advisor: 'Daniel Potter',
+			},
+			{
+				title: 'Undergraduate Teaching Assistant',
+				institution: 'Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)',
+				dates: 'Fall 2017',
+				location: 'Providence, RI',
+				description: 'Intro to Programming',
+				advisor: 'Thomas Serre',
+			},
+		],
+	},
 	];
 </script>
 
@@ -113,6 +129,4 @@
 
 <div class="main-body">
 	<MainColumn sections={mainColumn} />
-	<!-- Maybe care to bring back for now prefer 1 column -->
-	<!-- <SideColumn sections={sideColumn} /> -->
 </div>

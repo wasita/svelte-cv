@@ -1,7 +1,7 @@
 <script>
 	export const name = 'Wasita Mahaphanit';
 	const summaryLines = [
-		'<a href="mailto:wasita.gr@dartmouth.edu">wasita.gr@dartmouth.edu</a> | <a href="https://wasita.space">website</a> | <a href="github.com/wasita">github</a>',
+		'<a href="mailto:wasita.gr@dartmouth.edu">wasita.gr@dartmouth.edu</a> | <a href="https://wasita.space">website</a> | <a href="https://github.com/wasita">github</a>',
 	];
 </script>
 
