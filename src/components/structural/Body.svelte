@@ -177,7 +177,7 @@
 		details: [
 			{
 				year: 'April 2022',
-				description: 'NSF Graduate Research Fellowship Honorable Mention'
+				description: 'NSF Graduate Research Fellowship - Honorable Mention'
 			},
 			{
 				year: 'May 2018',
