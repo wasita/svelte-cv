@@ -54,7 +54,7 @@ body {
 }
 
 a {
-	color: var(--link-color);
+	color: var(--dark-prelude);
 	text-decoration: none;
 }
 a:visited {

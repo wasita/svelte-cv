@@ -207,6 +207,38 @@
 			}
 		]
 	},
+	{
+		type: 'honors-details',
+		label: 'Scientific & Community Outreach',
+		details: [
+			{
+				year: '2020-Present',
+				description: 'Pre-Grad Mentor & Consultant | Project SHORT'
+			}
+		]
+	},
+	{
+		type: 'honors-details',
+		label: 'Professional & Departmental Service',
+		details: [
+			{
+				year: '2021-Present',
+				description: 'Social Lab (SLAB) talk series co-organizer | Dartmouth PBS'
+			},
+			{
+				year: '2021-Present',
+				description: 'Consortium for Interacting Minds seminar series organizer | Dartmouth PBS'
+			},
+			{
+				year: '2021-Present',
+				description: 'Meeting Harmonization Committee | Dartmouth PBS'
+			},
+			{
+				year: '2019-2020',
+				description: 'Managing Minds (lab manager peer mentoring group) Founder & Organizer | Brown Carney/CLPS'
+			}
+		]
+	},
 	];
 </script>
 
