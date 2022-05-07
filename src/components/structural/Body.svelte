@@ -132,6 +132,13 @@
 		label: 'Talks',
 		details: [
 			{
+				year: 'May 2022',
+				description: 'Personal academic branding and website tutorial. Presented at the Graduate Research Roundtable (GRR) at Dartmouth College, Hanover, NH.'
+			},
+			{
+				year: 'May 2022',
+				description: 'Evolutionary game theory. Guest lecture for PSYC 043 (Emotion) class taught by Prof. Mark Thornton at Dartmouth College, Hanover, NH.'},
+			{
 				year: 'October 2021',
 				description: 'On building a chat app for studying shared reality construction in communication. Presented at the Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
 			},
@@ -222,12 +229,16 @@
 		label: 'Professional & Departmental Service',
 		details: [
 			{
+				year: '2022-Present',
+				description: 'Teaching Assistant Repository creation and organization committee | Dartmouth PBS'
+			},
+			{
 				year: '2021-Present',
 				description: 'Social Lab (SLAB) talk series co-organizer | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
-				description: 'Consortium for Interacting Minds seminar series organizer | Dartmouth PBS'
+				description: 'Consortium for Interacting Minds seminar series co-organizer | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
