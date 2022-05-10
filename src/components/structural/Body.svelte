@@ -131,10 +131,10 @@
 		type: 'pressie-details',
 		label: 'Talks',
 		details: [
-			{
-				year: 'May 2022',
-				description: 'Personal academic branding and website tutorial. Presented at the Graduate Research Roundtable (GRR) at Dartmouth College, Hanover, NH.'
-			},
+			// {
+			// 	year: 'May 2022',
+			// 	description: 'Personal academic branding and website tutorial. Presented at the Graduate Research Roundtable (GRR) at Dartmouth College, Hanover, NH.'
+			// },
 			{
 				year: 'May 2022',
 				description: 'Evolutionary game theory. Guest lecture for PSYC 043 (Emotion) class taught by Prof. Mark Thornton at Dartmouth College, Hanover, NH.'},
@@ -168,10 +168,11 @@
 			},
 			{
 				year: 'July 2019',
+				postWM: 'Geana, A., Frank, M.J.',
 				description: 'Perceptual uncertainty influences stimulus value learning in perceptual categorization. Presented at the 4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM). Montreal, CA.'
 			},
 			{
-				preWM: 'Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S.,Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.,',
+				preWM: 'Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S., Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.,',
 				postWM: 'Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., Goodman, W.',
 				year: 'April 2019',
 				description: 'Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder. Presented at the 5th Annual BRAIN Investigator’s Meeting. Washington, DC.'
@@ -184,7 +185,7 @@
 		details: [
 			{
 				year: 'April 2022',
-				description: 'NSF Graduate Research Fellowship - Honorable Mention'
+				description: 'NSF Graduate Research Fellowship | Honorable Mention'
 			},
 			{
 				year: 'May 2018',
@@ -221,6 +222,24 @@
 			{
 				year: '2020-Present',
 				description: 'Pre-Grad Mentor & Consultant | Project SHORT'
+			},
+			{
+				year: '2018-2020',
+				description: 'Rhode Island Brain Week Booth Organizer | brainweekri.org'
+			}
+		]
+	},
+	{
+		type: 'honors-details',
+		label: 'Research Training',
+		details: [
+			{
+				year: '2021',
+				description: 'Computational Neuroscience | Neuromatch Academy'
+			},
+			{
+				year: '2018',
+				description: 'Carney Computational Modeling Workshop | Brown University'
 			}
 		]
 	},
