@@ -248,6 +248,10 @@
 		label: 'Professional & Departmental Service',
 		details: [
 			{
+				year: '2021',
+				description: 'CLPS 0950 (Intro to Programming) Alumni Panel | Brown CLPS'
+			},
+			{
 				year: '2022-Present',
 				description: 'Teaching Assistant Repository creation and organization committee | Dartmouth PBS'
 			},
@@ -266,6 +270,10 @@
 			{
 				year: '2019-2020',
 				description: 'Managing Minds (lab manager peer mentoring group) Founder & Organizer | Brown Carney/CLPS'
+			},
+			{
+				year: '2018',
+				description: 'Cognitive Neuroscience DUG Alumni Career Panel | Brown CLPS'
 			}
 		]
 	},
