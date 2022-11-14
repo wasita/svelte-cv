@@ -17,7 +17,7 @@
 			details: [
 				{
 					title: 'Dartmouth College',
-					subtitle: 'Ph.D. Student in Cognitive Neuroscience',
+					subtitle: 'Ph.D. Candidate in Cognitive Neuroscience',
 					dates: '2021 — Present',
 					location: 'Hanover, NH',
 					description: 'Advisor: Luke J. Chang',
@@ -43,7 +43,7 @@
 				dates: '2021 — Present',
 				location: 'Hanover, NH',
 				advisor: 'Advisor: Luke J. Chang',
-				research: 'Research focuses: communication, social cognitive maps, social learning, decision-making',
+				research: 'Research focuses: communication, social networks, social structure learning, fMRI',
 			},
 			{
 				title: 'Lab Manager/Research Assistant',
@@ -53,7 +53,7 @@
 				dates: '2018 — 2021',
 				location: 'Providence, RI',
 				advisor: 'Advisor: Michael J. Frank',
-				research: 'Research focuses: computational psychiatry, reinforcement learning, decision-making'
+				research: 'Research focuses: computational psychiatry (esp. OCD), reinforcement learning, decision-making, EEG, pharmacology'
 			},
 			{
 				title: 'Undergraduate Research Assistant',
@@ -63,7 +63,7 @@
 				dates: '2016 — 2018',
 				location: 'Providence, RI',
 				advisor: 'Advisor: Amitai Shenhav',
-				research: 'Research focuses: cognitive control, performance monitoring, task-switching'
+				research: 'Research focuses: cognitive control, performance monitoring, task-switching, EEG'
 			},
 			{
 				title: 'Summer Undergraduate Research Intern',
@@ -73,7 +73,7 @@
 				dates: '2016 — 2018',
 				location: 'Providence, RI',
 				advisor: 'Advisor: Noah Philip',
-				research: 'Research focuses: major-depressive disorder, post-traumatic stress disorder'
+				research: 'Research focuses: major-depressive disorder, post-traumatic stress disorder, rTMS'
 			},
 		],
 	},
@@ -81,6 +81,14 @@
 		type: 'teaching-exps',
 		label: 'Teaching Experience',
 		details: [
+			{
+				title: 'Graduate Teaching Assistant',
+				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
+				dates: 'Fall 2022',
+				location: 'Hanover, NH',
+				description: 'Principles of Human Brain Mapping with fMRI',
+				advisor: 'Luke J. Chang',
+			},
 			{
 				title: 'Graduate Teaching Assistant',
 				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
@@ -131,20 +139,20 @@
 		type: 'pressie-details',
 		label: 'Talks',
 		details: [
-			// {
-			// 	year: 'May 2022',
-			// 	description: 'Personal academic branding and website tutorial. Presented at the Graduate Research Roundtable (GRR) at Dartmouth College, Hanover, NH.'
-			// },
+			{
+				year: 'September 2022',
+				description: 'On using a chat app to study communication and shared reality. Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
+			},
 			{
 				year: 'May 2022',
 				description: 'Evolutionary game theory. Guest lecture for PSYC 043 (Emotion) class taught by Prof. Mark Thornton at Dartmouth College, Hanover, NH.'},
 			{
 				year: 'October 2021',
-				description: 'On building a chat app for studying shared reality construction in communication. Presented at the Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
+				description: 'On building a chat app for studying shared reality construction in communication. Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
 			},
 			{
 				year: 'December 2020',
-				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. Presented at the Learning, Memory, & Decision Lab (PI: Matthew Nassar). Brown University, Providence, RI.'
+				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. Learning, Memory, & Decision Lab (PI: Matthew Nassar) meeting. Brown University, Providence, RI.'
 			},
 			{
 				year: 'June 2020',
@@ -248,32 +256,38 @@
 		label: 'Professional & Departmental Service',
 		details: [
 			{
+<<<<<<< Updated upstream
+=======
 				year: '2021',
-				description: 'CLPS 0950 (Intro to Programming) Alumni Panel | Brown CLPS'
+				description: 'CLPS 0950 (Intro to Programming) Alumni Panelist | Brown CLPS'
 			},
 			{
+>>>>>>> Stashed changes
 				year: '2022-Present',
-				description: 'Teaching Assistant Repository creation and organization committee | Dartmouth PBS'
+				description: 'Teaching Assistant Repository Creation & Organization Committee | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
-				description: 'Social Lab (SLAB) talk series co-organizer | Dartmouth PBS'
+				description: 'Social Lab (SLAB) Talk Series Co-organizer | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
-				description: 'Consortium for Interacting Minds seminar series co-organizer | Dartmouth PBS'
+				description: 'Consortium for Interacting Minds Seminar Series Co-organizer | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
 				description: 'Meeting Harmonization Committee | Dartmouth PBS'
 			},
 			{
-				year: '2019-2020',
+				year: '2019-2021',
 				description: 'Managing Minds (lab manager peer mentoring group) Founder & Organizer | Brown Carney/CLPS'
+<<<<<<< Updated upstream
+=======
 			},
 			{
 				year: '2018',
-				description: 'Cognitive Neuroscience DUG Alumni Career Panel | Brown CLPS'
+				description: 'Cognitive Neuroscience DUG Alumni Career Panelist | Brown CLPS'
+>>>>>>> Stashed changes
 			}
 		]
 	},
