@@ -84,6 +84,14 @@
 			{
 				title: 'Graduate Teaching Assistant',
 				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
+				dates: 'Spring 2023',
+				location: 'Hanover, NH',
+				description: 'Cognitive Psychology',
+				advisor: 'Viola Störmer',
+			},
+			{
+				title: 'Graduate Teaching Assistant',
+				institution: 'Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)',
 				dates: 'Fall 2022',
 				location: 'Hanover, NH',
 				description: 'Principles of Human Brain Mapping with fMRI',
@@ -127,6 +135,16 @@
 		type: 'pressie-details',
 		label: 'Papers',
 		details: [
+			{
+				year: 'In prep.',
+				preWM: '',
+				postWM: 'Chang, L.J.',
+				description: 'Forming connections using a naturalistic synchronous viewing paradigm'},
+			{
+				year: 'In prep.',
+				preWM: '',
+				postWM: 'Chang, L.J.',
+				description: 'Communication as behavioral annotations for experimental stimuli'},
 			{
 				year: '2021',
 				preWM: 'Provenza, N.R., Gelin, L.,',
@@ -228,8 +246,24 @@
 		label: 'Scientific & Community Outreach',
 		details: [
 			{
+				year: '2022-Present',
+				description: 'Site Maintainer | Women in Network Science (WiNS) member website (wins-search.netlify.app)'
+			},
+			{
+				year: '2022-Present',
+				description: 'Content Contributor & Site Maintainer | Info Theory Book (cosanlab.github.io/info-theory-book)'
+			},
+			{
+				year: '2021-Present',
+				description: 'Content Contributor & Site Maintainer | Intro to FMRI at Dartmouth (dartbrains.org)'
+			},
+			{
 				year: '2020-Present',
 				description: 'Pre-Grad Mentor & Consultant | Project SHORT'
+			},
+			{
+				year: '2019-2021',
+				description: 'Contributing Software Engineer | Honeycomb (brown-ccv.github.io/honeycomb-docs)'
 			},
 			{
 				year: '2018-2020',
