@@ -7,7 +7,7 @@
 			label: 'Research Interests',
 			details: [
 				{
-					description: 'Social learning, cognitive maps, communication, group decision-making, memory. I aim to use a combination of behavioral experiments, neuroimaging, and computational modeling to explore these interests.',
+					description: 'How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I employ a range of techniques, including behavioral experiments, neuroimaging, and computational modeling.'
 				},
 			]
 		},
@@ -146,6 +146,16 @@
 				postWM: 'Chang, L.J.',
 				description: 'Communication as behavioral annotations for experimental stimuli'},
 			{
+				year: 'In prep.',
+				preWM: '',
+				postWM: 'Provenza, N., Frank, M.J., Borton, D., and Nassar, M.',
+				description: 'Computations in information-seeking behavior and decision-making in obsessive-compulsive disorder (OCD)'},
+			{
+				year: 'In prep.',
+				preWM: '',
+				postWM: 'Geana, A., and Frank, M.J.',
+				description: 'Perceptual uncertainty disrupts credit assignment in stimulus value learning and perceptual categorization'},
+			{
 				year: '2021',
 				preWM: 'Provenza, N.R., Gelin, L.,',
 				postWM: 'McGrath, M., Dastin-van Rijin, E., Fan, Y., Dhar, R., Frank, M.J., Restrepo, M.I., Goodman, W.K., and Borton, D.',
@@ -157,6 +167,10 @@
 		type: 'pressie-details',
 		label: 'Talks',
 		details: [
+			{
+				year: 'May 2023',
+				description: 'Decision-Making. Guest lecture for PSYC 028 (Cognitive Psychology) class taught by Prof. Viola Störmer at Dartmouth College, Hanover, NH.',
+			},
 			{
 				year: 'September 2022',
 				description: 'On using a chat app to study communication and shared reality. Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.',
@@ -187,10 +201,20 @@
 		label: 'Posters',
 		details: [
 			{
+				postWM: 'Chang, L.J.',
+				year: 'July 2023',
+				description: 'Shared experiences strengthen social connectedness through shared impression formation and communication behavior. Presented at the Cognitive Science Society (CogSci). Sydney, Australia.'
+			},
+			{
+				postWM: 'Chang, L.J.',
+				year: 'April 2023',
+				description: 'Are shared experiences blind? Presented at the Social and Affective Neuroscience Society (SANS). Santa Barbara, CA.'
+			},
+			{
 				preWM: 'Geana, A.,',
 				postWM: 'Frank, M.J.',
 				year: 'October 2019',
-				description: 'The role of perceptual uncertainty in value learning and naturalistic stimulus categorization. Presented at the Society for Neurosciecne (SfN). Chicago, IL.'
+				description: 'The role of perceptual uncertainty in value learning and naturalistic stimulus categorization. Presented at the Society for Neuroscience (SfN). Chicago, IL.'
 			},
 			{
 				year: 'July 2019',
@@ -268,7 +292,11 @@
 			{
 				year: '2018-2020',
 				description: 'Rhode Island Brain Week Booth Organizer | brainweekri.org'
-			}
+			},
+			{
+				year: '2017-2018',
+				description: 'Rhode Island Brain Week Booth Participant | brainweekri.org'
+			},
 		]
 	},
 	{
@@ -290,10 +318,6 @@
 		label: 'Professional & Departmental Service',
 		details: [
 			{
-				year: '2021',
-				description: 'CLPS 0950 (Intro to Programming) Alumni Panelist | Brown CLPS'
-			},
-			{
 				year: '2022-Present',
 				description: 'Teaching Assistant Repository Creation & Organization Committee | Dartmouth PBS'
 			},
@@ -303,11 +327,15 @@
 			},
 			{
 				year: '2021-Present',
-				description: 'Consortium for Interacting Minds Seminar Series Co-organizer | Dartmouth PBS'
+				description: 'Consortium for Interacting Minds (CIM) Seminar Series Co-organizer | Dartmouth PBS'
 			},
 			{
 				year: '2021-Present',
 				description: 'Meeting Harmonization Committee | Dartmouth PBS'
+			},
+			{
+				year: '2021',
+				description: 'Transitioning from Intro to Programming to Career in Computation | Alumni Panelist | Brown CLPS'
 			},
 			{
 				year: '2019-2021',
