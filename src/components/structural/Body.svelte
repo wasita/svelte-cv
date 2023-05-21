@@ -234,6 +234,10 @@
 		label: 'Awards & Honors',
 		details: [
 			{
+				year: 'April 2023',
+				description: 'Neukom Travel Award ($1,000) from Dartmouth College'
+			},
+			{
 				year: 'April 2022',
 				description: 'NSF Graduate Research Fellowship | Honorable Mention'
 			},
@@ -260,6 +264,10 @@
 				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($1,000) from Brown University'
 			},
 			{
+				year: '2015-2017',
+				description: "Sorensen Family Chancellor's Scholarship from Brown University"
+			},
+			{
 				year: 'Spring 2014',
 				description: 'Junior Volunteer Scholarship ($2,000) from Maine Medical Center'
 			}
@@ -269,6 +277,14 @@
 		type: 'honors-details',
 		label: 'Scientific & Community Outreach',
 		details: [
+			{
+				year: 'May 2023',
+				description: "fMRI Operator & Software Engineer for Trust Game featured in episode | PBS NOVA | Who's in Control?"
+			},
+			{
+				year: 'April 2023',
+				description: 'Podcast Guest | Svelte Radio | Svelte in Research at Dartmouth with Wasita and Eshin'
+			},
 			{
 				year: '2022-Present',
 				description: 'Site Maintainer | Women in Network Science (WiNS) member website (wins-search.netlify.app)'
