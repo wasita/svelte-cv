@@ -262,19 +262,19 @@
 		details: [
 			{
 				year: 'Summer 2017',
-				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($3,500) from Brown University'
+				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($3,500) | Brown University'
 			},
 			{
 				year: 'Spring 2014',
-				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($1,000) from Brown University'
+				description: 'Karen T. Romer Undergraduate Teaching & Research Award ($1,000) | Brown University'
 			},
 			{
 				year: '2015-2017',
-				description: "Sorensen Family Chancellor's Scholarship from Brown University"
+				description: "Sorensen Family Chancellor's Scholarship | Brown University"
 			},
 			{
 				year: 'Spring 2014',
-				description: 'Junior Volunteer Scholarship ($2,000) from Maine Medical Center'
+				description: 'Junior Volunteer Scholarship ($2,000) | Maine Medical Center'
 			}
 		]
 	},
