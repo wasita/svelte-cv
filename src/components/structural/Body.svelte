@@ -7,7 +7,7 @@
 			label: 'Research Interests',
 			details: [
 				{
-					description: 'How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I employ a range of techniques, including behavioral experiments, neuroimaging, and computational modeling.'
+					description: 'How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I employ a range of techniques, including large-scale real-time online behavioral experiments, natural language processing (NLP), and computational modeling.'
 				},
 			]
 		},
@@ -43,7 +43,7 @@
 				dates: '2021 — Present',
 				location: 'Hanover, NH',
 				advisor: 'Advisor: Luke J. Chang',
-				research: 'Research focuses: communication, social networks, social structure learning, fMRI',
+				research: 'Research focuses: collaboration, communication, theory of mind, dyadic & group social interactions, social networks, fMRI',
 			},
 			{
 				title: 'Lab Manager/Research Assistant',
@@ -53,7 +53,7 @@
 				dates: '2018 — 2021',
 				location: 'Providence, RI',
 				advisor: 'Advisor: Michael J. Frank',
-				research: 'Research focuses: computational psychiatry (esp. OCD), reinforcement learning, decision-making, EEG, pharmacology'
+				research: 'Research focuses: computational psychiatry (esp. OCD), reinforcement learning, decision-making, EEG, pharmacology, Parkinson\'s Disease'
 			},
 			{
 				title: 'Undergraduate Research Assistant',
@@ -135,6 +135,11 @@
 		type: 'pressie-details',
 		label: 'Papers',
 		details: [
+			{
+				year: 'In prep.',
+				preWM: 'Culbreth, A., Moran, E.',
+				postWM: 'Erickson, M., Boudewyn, M., Frank, M.J., Barch, D., MacDonald III, A., Ragland, J., Luck, S., Silverstein, S., Carter, C., & Gold, J.',
+				description: 'A Transdiagnostic Study of Effort-Cost Decision-Making in Psychotic and Mood Disorders.'},
 			{
 				year: 'In prep.',
 				preWM: '',
@@ -279,11 +284,11 @@
 		details: [
 			{
 				year: 'May 2023',
-				description: "fMRI Operator & Software Engineer for Trust Game featured in episode | PBS NOVA | Who's in Control?"
+				description: "Featured Software Engineer for Trust Game & fMRI Operator | PBS NOVA | Who's in Control?"
 			},
 			{
 				year: 'April 2023',
-				description: 'Podcast Guest | Svelte Radio | Svelte in Research at Dartmouth with Wasita and Eshin'
+				description: 'Podcast Guest | Svelte Radio | Svelte in Research at Dartmouth with Wasita & Eshin'
 			},
 			{
 				year: '2022-Present',
