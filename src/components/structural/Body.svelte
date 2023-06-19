@@ -192,6 +192,10 @@
 				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. Learning, Memory, & Decision Lab (PI: Matthew Nassar) meeting. Brown University, Providence, RI.'
 			},
 			{
+				year: 'November 2020',
+				description: 'Intro to Honeycomb: a template for reproducible psychophysiological task creation. Center for Computation & Visualization (CCV) tutorial series. Brown University, Providence, RI.'
+			},
+			{
 				year: 'June 2020',
 				description: 'Computations in information-seeking and decision-making in Obsessive Compulsive Disorder. 1st Annual Meeting of Brown Unconference on Computational Intelligence and Applications. Brown University, Providence, RI.'
 			},
