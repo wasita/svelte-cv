@@ -118,7 +118,7 @@
 				institution: 'Brown University | Dept. of Computer Science',
 				dates: 'Spring 2018',
 				location: 'Providence, RI',
-				description: 'Intro to Scientific Computing and Problem Solving',
+				description: 'Intro to Scientific Computing & Problem Solving',
 				advisor: 'Daniel Potter',
 			},
 			{
@@ -329,8 +329,13 @@
 		label: 'Research Training',
 		details: [
 			{
+				year: '2023',
+				description: 'Methods in Neuroscience at Dartmouth (MIND) Summer School | Dartmouth College'
+			},
+
+			{
 				year: '2021',
-				description: 'Computational Neuroscience | Neuromatch Academy'
+				description: 'Computational Neuroscience Course | Neuromatch Academy (NMA)'
 			},
 			{
 				year: '2018',
@@ -360,7 +365,7 @@
 			},
 			{
 				year: '2021',
-				description: 'Transitioning from Intro to Programming to Career in Computation | Alumni Panelist | Brown CLPS'
+				description: 'From Intro to Programming to a Career in Computation | Alumni Panelist | Brown CLPS'
 			},
 			{
 				year: '2019-2021',
@@ -368,7 +373,7 @@
 			},
 			{
 				year: '2018',
-				description: 'Cognitive Neuroscience DUG Alumni Career Panelist | Brown CLPS'
+				description: 'Cognitive Neuroscience Alumni Career Panelist | Brown CLPS'
 			}
 		]
 	},
