@@ -288,7 +288,7 @@
 		details: [
 			{
 				year: 'May 2023',
-				description: "Featured Software Engineer for Trust Game & fMRI Operator | PBS NOVA | Who's in Control?"
+				description: "fMRI Operator & Software Engineer for Featured Trust Game| PBS NOVA | Who's in Control?"
 			},
 			{
 				year: 'April 2023',
