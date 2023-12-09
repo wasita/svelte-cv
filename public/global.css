@@ -22,9 +22,9 @@
 	--main-column-width: 100%;
 	--vertical-space-between-sections: 0.9rem;
 	--vertical-space-between-subsections: 0.8rem;
-	--horizontal-space-between-columns: 30px;
-	--horizontal-offset: -25px;
-	--list-line-height: 1.3em;
+	--horizontal-space-between-columns: 0;
+	--horizontal-offset: 0px;
+	--list-line-height: 1.5em;
 
 	/* ADJUST APPEARANCE */
 	/* --column-order: row-reverse; */
@@ -40,62 +40,62 @@ body {
 	position: relative;
 	width: 100%;
 	height: 100%;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Helvetica Neue', sans-serif;
 	background: var(--white);
-}
+	}
 
-body {
-	color: var(--black);
-	margin: 0;
-	padding: 8px;
-	box-sizing: border-box;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-		Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
-}
+	body {
+		color: var(--black);
+		margin: 0;
+		padding: 8px;
+		box-sizing: border-box;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+			Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+	}
 
-a {
-	color: var(--dark-prelude);
-	text-decoration: none;
-}
-a:visited {
-	color: var(--dark-prelude);
-}
+	a {
+		color: var(--dark-prelude);
+		text-decoration: none;
+	}
+	a:visited {
+		color: var(--dark-prelude);
+	}
 
-/*  purple squigglies on hover :^) */
-/* a:hover {
-	color: var(--dark-prelude);
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 -2 20 8'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift 1s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23c9c2ed' stroke-width='3' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
-	background-position: 0 100%;
-	background-size: auto 6px;
-	background-repeat: repeat-x;
-	text-decoration: none;
-	border-bottom: none;
-} */
+	/*  purple squigglies on hover :^) */
+	/* a:hover {
+		color: var(--dark-prelude);
+		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 -2 20 8'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift 1s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23c9c2ed' stroke-width='3' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+		background-position: 0 100%;
+		background-size: auto 6px;
+		background-repeat: repeat-x;
+		text-decoration: none;
+		border-bottom: none;
+	} */
 
-/* cotton candy gradient */
-a:hover {
-	background: linear-gradient(to left, var(--prelude), var(--regent-st-blue) 100%);
-	background-position: 0 100%;
-	background-size: 100% 2.5px;
-	background-repeat: repeat-x;
-}
+	/* cotton candy gradient */
+	a:hover {
+		background: linear-gradient(to left, var(--prelude), var(--regent-st-blue) 100%);
+		background-position: 0 100%;
+		background-size: 100% 2.5px;
+		background-repeat: repeat-x;
+	}
 
-label {
-	display: block;
-}
+	label {
+		display: block;
+	}
 
-input,
-button,
-select,
-textarea {
-	font-family: inherit;
-	font-size: inherit;
-	padding: 0.4em;
-	margin: 0 0 0.5em 0;
-	box-sizing: border-box;
-	border: 1px solid #ccc;
-	border-radius: 2px;
-}
+	input,
+	button,
+	select,
+	textarea {
+		font-family: inherit;
+		font-size: inherit;
+		padding: 0.4em;
+		margin: 0 0 0.5em 0;
+		box-sizing: border-box;
+		border: 1px solid #ccc;
+		border-radius: 2px;
+	}
 
 input:disabled {
 	color: #ccc;
