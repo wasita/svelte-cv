@@ -173,9 +173,14 @@
         {
           year: "In prep.",
           preWM: "",
+          postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          description: "Does shared reality generalize?",
+        },
+        {
+          year: "In prep.",
+          preWM: "",
           postWM: "Chang, L.J.",
-          description:
-            "Forming connections using a naturalistic synchronous viewing paradigm",
+          description: "Are shared experiences blind?",
         },
         {
           year: "In prep.",
@@ -205,6 +210,11 @@
       label: "Talks",
       details: [
         {
+          year: "September 2024 - Forthcoming",
+          description:
+            "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
+        },
+        {
           year: "December 2023",
           description:
             "Web dev approaches to studying social interactions. Social Interaction Lab (PI: Robert Hawkins) meeting. University of Wisconsin-Madison, WI.",
@@ -225,14 +235,14 @@
             "Does shared reality generalize? Social Interaction Lab (PI: Robert Hawkins) meeting. University of Wisconsin-Madison, WI.",
         },
         {
-          year: "August 2023",
-          description:
-            "Does shared reality generalize? Methods in Neuroscience at Dartmouth (MIND) Summer School at Dartmouth College, Hanover, NH.",
-        },
-        {
           year: "September 2023",
           description:
             "Learning to collaboratively communicate a shared wavelength. Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH.",
+        },
+        {
+          year: "August 2023",
+          description:
+            "Does shared reality generalize? Methods in Neuroscience at Dartmouth (MIND) Summer School at Dartmouth College, Hanover, NH.",
         },
         {
           year: "May 2023",
@@ -424,7 +434,7 @@
         {
           year: "2017-2018",
           description:
-            "Rhode Island Brain Week Booth Participant | brainweekri.org",
+            "Rhode Island Brain Week Booth Volunteer | brainweekri.org",
         },
       ],
     },
