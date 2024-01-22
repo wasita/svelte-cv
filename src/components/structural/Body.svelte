@@ -218,7 +218,7 @@
             "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
         },
         {
-          year: "February 2024",
+          year: "February 2024 - Forthcoming",
           description:
             "Are shared experiences blind? Shared Reality Virtual Mini-Conference.",
         },
@@ -299,6 +299,28 @@
       label: "Posters",
       details: [
         {
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          year: "July 2024",
+          joint: true,
+          description:
+            "When and why does shared reality generalize? Submitted to the Cognitive Science Society (CSS). Rotterdam, Netherlands.",
+        },
+        {
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          year: "June 2024",
+          joint: true,
+          description:
+            "When and why does shared reality generalize? Submitted to the 50th Annual Meeting of the Society for Philosophy & Psychology (SPP). West Lafayette, Indiana.",
+        },
+        {
+          postWM: "Hawkins, R.X.D., Phillips, J.S., & Chang, L.J.",
+          year: "April 2024",
+          description:
+            "Learning to communicate a shared wavelength facilitates social connection. Submitted to the Social & Affective Neuroscience Society (SANS). Toronto, Canada.",
+        },
+        {
           postWM: "Chang, L.J.",
           year: "February 2024",
           onlyTwo: true,
@@ -321,14 +343,14 @@
         },
         {
           preWM: "Geana, A.,",
-          postWM: "Frank, M.J.",
+          postWM: "& Frank, M.J.",
           year: "October 2019",
           description:
             "The role of perceptual uncertainty in value learning and naturalistic stimulus categorization. Presented at the Society for Neuroscience (SfN). Chicago, IL.",
         },
         {
           year: "July 2019",
-          postWM: "Geana, A., Frank, M.J.",
+          postWM: "Geana, A., & Frank, M.J.",
           description:
             "Perceptual uncertainty influences stimulus value learning in perceptual categorization. Presented at the 4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM). Montreal, CA.",
         },
