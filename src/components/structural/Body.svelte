@@ -158,7 +158,7 @@
         },
         {
           year: "2021",
-          preWM: "Provenza, N.R., Gelin, L.,",
+          preWM: "Provenza, N.R., Gelin, L.",
           postWM:
             "McGrath, M., Dastin-van Rijin, E., Fan, Y., Dhar, R., Frank, M.J., Restrepo, M.I., Goodman, W.K., and Borton, D.",
           description:
@@ -173,19 +173,22 @@
         {
           year: "In prep.",
           preWM: "",
-          postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
-          description: "Does shared reality generalize?",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          joint: true,
+          description: "When and why does shared reality generalize?",
         },
         {
           year: "In prep.",
           preWM: "",
           postWM: "Chang, L.J.",
+          onlyTwo: true,
           description: "Are shared experiences blind?",
         },
         {
           year: "In prep.",
           preWM: "",
           postWM: "Chang, L.J.",
+          onlyTwo: true,
           description:
             "Communication as behavioral annotations for experimental stimuli",
         },
@@ -213,6 +216,11 @@
           year: "September 2024 - Forthcoming",
           description:
             "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
+        },
+        {
+          year: "February 2024",
+          description:
+            "Are shared experiences blind? Shared Reality Virtual Mini-Conference.",
         },
         {
           year: "December 2023",
@@ -293,18 +301,21 @@
         {
           postWM: "Chang, L.J.",
           year: "February 2024",
+          onlyTwo: true,
           description:
             "Shared experiences strengthen social connectedness through shared impression formation and communication behavior. Accepted at the Society for Personality & Social Psychology (SPSP). San Diego, California.",
         },
         {
           postWM: "Chang, L.J.",
           year: "July 2023",
+          onlyTwo: true,
           description:
             "Shared experiences strengthen social connectedness through shared impression formation and communication behavior. Presented at the Cognitive Science Society (CogSci). Sydney, Australia.",
         },
         {
           postWM: "Chang, L.J.",
           year: "April 2023",
+          onlyTwo: true,
           description:
             "Are shared experiences blind? Presented at the Social and Affective Neuroscience Society (SANS). Santa Barbara, CA.",
         },
