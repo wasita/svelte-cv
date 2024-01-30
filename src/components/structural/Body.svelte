@@ -194,10 +194,11 @@
         },
         {
           year: "In prep.",
-          preWM: "",
-          postWM: "Provenza, N., Frank, M.J., Borton, D., and Nassar, M.",
+          preWM: "Kang, J.,",
+          postWM:
+            "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
           description:
-            "Computations in information-seeking behavior and decision-making in obsessive-compulsive disorder (OCD)",
+            "The effect of adaptive deep brain stimulation obsessive-compulsive disorder in cognitive self-control under uncertainty",
         },
         {
           year: "In prep.",
@@ -307,13 +308,21 @@
             "When and why does shared reality generalize? Submitted to the Cognitive Science Society (CSS). Rotterdam, Netherlands.",
         },
         {
-          preWM: "",
-          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          preWM: "Kang, J.",
+          postWM:
+            "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
           year: "June 2024",
-          joint: true,
           description:
-            "When and why does shared reality generalize? Submitted to the 50th Annual Meeting of the Society for Philosophy & Psychology (SPP). West Lafayette, Indiana.",
+            "The effect of adaptive deep brain stimulation on cognitive self-control under uncertainty. Submitted to the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
         },
+        // {
+        //   preWM: "",
+        //   postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+        //   year: "June 2024",
+        //   joint: true,
+        //   description:
+        //     "When and why does shared reality generalize? Submitted to the 50th Annual Meeting of the Society for Philosophy & Psychology (SPP). West Lafayette, Indiana.",
+        // },
         {
           postWM: "Hawkins, R.X.D., Phillips, J.S., & Chang, L.J.",
           year: "April 2024",
