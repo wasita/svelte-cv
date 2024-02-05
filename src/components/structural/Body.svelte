@@ -194,11 +194,11 @@
         },
         {
           year: "In prep.",
-          preWM: "Kang, J.,",
+          preWM: "Kang, J.",
           postWM:
             "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
           description:
-            "The effect of adaptive deep brain stimulation obsessive-compulsive disorder in cognitive self-control under uncertainty",
+            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty",
         },
         {
           year: "In prep.",
@@ -313,7 +313,7 @@
             "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
           year: "June 2024",
           description:
-            "The effect of adaptive deep brain stimulation on cognitive self-control under uncertainty. Submitted to the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
+            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty. Submitted to the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
         },
         // {
         //   preWM: "",
