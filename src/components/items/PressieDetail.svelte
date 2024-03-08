@@ -6,6 +6,7 @@
   export let year;
   export let joint;
   export let onlyTwo;
+  export let link;
 </script>
 
 <div class="pressie-details detail-container">
@@ -38,6 +39,9 @@
           <b>{author}</b>
           ({year}). {description}
         </div>
+      {/if}
+      {#if link}
+        <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
       {/if}
     {/if}
   </div>

@@ -146,6 +146,21 @@
     },
     {
       type: "pressie-details",
+      label: "Preprints",
+      details: [
+        {
+          year: "2024",
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          joint: true,
+          description: "When and why does shared reality generalize?",
+          link: "https://osf.io/preprints/psyarxiv/g9p3e",
+        },
+        ,
+      ],
+    },
+    {
+      type: "pressie-details",
       label: "Papers",
       details: [
         {
@@ -170,13 +185,6 @@
       type: "pressie-details",
       label: "Papers in Preparation",
       details: [
-        {
-          year: "In prep.",
-          preWM: "",
-          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
-          joint: true,
-          description: "When and why does shared reality generalize?",
-        },
         {
           year: "In prep.",
           preWM: "",
@@ -219,7 +227,7 @@
             "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
         },
         {
-          year: "February 2024 - Forthcoming",
+          year: "February 2024",
           description:
             "Are shared experiences blind? Shared Reality Virtual Mini-Conference.",
         },
