@@ -309,7 +309,14 @@
       details: [
         {
           preWM: "",
-          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
+          postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D.",
+          year: "A 2024",
+          description:
+            "How does shared reality generalize? Submitted to the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
+        },
+        {
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
           year: "July 2024",
           joint: true,
           description:
@@ -323,16 +330,8 @@
           description:
             "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty. Submitted to the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
         },
-        // {
-        //   preWM: "",
-        //   postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
-        //   year: "June 2024",
-        //   joint: true,
-        //   description:
-        //     "When and why does shared reality generalize? Submitted to the 50th Annual Meeting of the Society for Philosophy & Psychology (SPP). West Lafayette, Indiana.",
-        // },
         {
-          postWM: "Hawkins, R.X.D., Phillips, J.S., & Chang, L.J.",
+          postWM: "Hawkins, R.D., Phillips, J.S., & Chang, L.J.",
           year: "April 2024",
           description:
             "Learning to communicate a shared wavelength facilitates social connection. Submitted to the Social & Affective Neuroscience Society (SANS). Toronto, Canada.",

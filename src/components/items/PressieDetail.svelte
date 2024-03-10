@@ -17,31 +17,43 @@
           {preWM}
           <b>{author}*</b>
           , {postWM} ({year}). {description}
+          {#if link}
+            <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
+          {/if}
         </div>
       {:else if onlyTwo}
         <div class="description">
           <b>{author}</b>
           & {postWM} ({year}). {description}
+          {#if link}
+            <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
+          {/if}
         </div>
       {:else if preWM}
         <div class="description">
           {preWM},
           <b>{author}</b>
           , {postWM} ({year}). {description}
+          {#if link}
+            <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
+          {/if}
         </div>
       {:else if postWM}
         <div class="description">
           <b>{author}</b>
           , {postWM} ({year}). {description}
+          {#if link}
+            <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
+          {/if}
         </div>
       {:else}
         <div class="description">
           <b>{author}</b>
           ({year}). {description}
+          {#if link}
+            <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
+          {/if}
         </div>
-      {/if}
-      {#if link}
-        <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
       {/if}
     {/if}
   </div>
