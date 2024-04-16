@@ -164,6 +164,14 @@
       label: "Papers",
       details: [
         {
+          year: "2024",
+          preWM: "",
+          postWM: "Welker, C.L.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
+          joint: true,
+          description:
+            "When and why does shared reality generalize? Proceedings of the 46th Annual Conference of the Cognitive Science Society.",
+        },
+        {
           year: "2023",
           preWM: "Culbreth, A., Moran, E.",
           postWM:
@@ -225,6 +233,11 @@
           year: "September 2024 - Forthcoming",
           description:
             "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
+        },
+        {
+          year: "July 2024 - Forthcoming",
+          description:
+            "When and why does shared reality generalize? Cognitive Science Society conference at Rotterdam, Netherlands.",
         },
         {
           year: "February 2024",
@@ -315,14 +328,6 @@
             "How does shared reality generalize? Submitted to the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
         },
         {
-          preWM: "",
-          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
-          year: "July 2024",
-          joint: true,
-          description:
-            "When and why does shared reality generalize? Submitted to the Cognitive Science Society (CSS). Rotterdam, Netherlands.",
-        },
-        {
           preWM: "Kang, J.",
           postWM:
             "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
@@ -334,7 +339,7 @@
           postWM: "Hawkins, R.D., Phillips, J.S., & Chang, L.J.",
           year: "April 2024",
           description:
-            "Learning to communicate a shared wavelength facilitates social connection. Submitted to the Social & Affective Neuroscience Society (SANS). Toronto, Canada.",
+            "Learning to communicate a shared wavelength facilitates social connection. Presented at the Social & Affective Neuroscience Society (SANS). Toronto, Canada.",
         },
         {
           postWM: "Chang, L.J.",
@@ -522,13 +527,13 @@
             "Consortium for Interacting Minds (CIM) Seminar Series Co-organizer | Dartmouth PBS",
         },
         {
-          year: "2021-Present",
-          description: "Meeting Harmonization Committee | Dartmouth PBS",
-        },
-        {
           year: "2022-2023",
           description:
             "Teaching Assistant Repository Creation & Organization Committee | Dartmouth PBS",
+        },
+        {
+          year: "2021-2023",
+          description: "Meeting Harmonization Committee | Dartmouth PBS",
         },
         {
           year: "2021",
