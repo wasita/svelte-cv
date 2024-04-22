@@ -414,6 +414,14 @@
           year: "January 2018",
           description: "Deep Learning Datathon @ Brown University | 1st Place",
         },
+        {
+          year: "2014",
+          description: "QuestBridge Scholar | National College Match Finalist",
+        },
+        {
+          year: "2013",
+          description: "QuestBridge | College Prep Scholar",
+        },
       ],
     },
     {
