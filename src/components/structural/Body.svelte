@@ -323,7 +323,7 @@
         {
           preWM: "",
           postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D.",
-          year: "A 2024",
+          year: "August 2024",
           description:
             "How does shared reality generalize? Submitted to the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
         },
@@ -363,7 +363,7 @@
             "Are shared experiences blind? Presented at the Social and Affective Neuroscience Society (SANS). Santa Barbara, CA.",
         },
         {
-          preWM: "Geana, A.,",
+          preWM: "Geana, A.",
           postWM: "& Frank, M.J.",
           year: "October 2019",
           description:
@@ -377,9 +377,9 @@
         },
         {
           preWM:
-            "Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S., Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.,",
+            "Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S., Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.",
           postWM:
-            "Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., Goodman, W.",
+            "Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., & Goodman, W.",
           year: "April 2019",
           description:
             "Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder. Presented at the 5th Annual BRAIN Investigator’s Meeting. Washington, DC.",

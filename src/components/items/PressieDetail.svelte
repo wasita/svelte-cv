@@ -1,8 +1,8 @@
 <script>
   export let description;
-  export let author = "Mahaphanit, W.";
   export let preWM;
   export let postWM;
+  export let author = "Mahaphanit, W.";
   export let year;
   export let joint;
   export let onlyTwo;
@@ -13,6 +13,7 @@
   <div class="bottom">
     {#if description}
       {#if joint}
+        <!-- joint/co-first author -->
         <div class="description">
           {preWM}
           <b>{author}*</b>
@@ -22,6 +23,7 @@
           {/if}
         </div>
       {:else if onlyTwo}
+        <!-- only two authors e.g. Mahaphanit, W. & Chang, L.J. -->
         <div class="description">
           <b>{author}</b>
           & {postWM} ({year}). {description}
@@ -30,6 +32,7 @@
           {/if}
         </div>
       {:else if preWM}
+        <!-- any others before Mahaphanit -->
         <div class="description">
           {preWM},
           <b>{author}</b>
@@ -39,6 +42,7 @@
           {/if}
         </div>
       {:else if postWM}
+        <!-- any othres after Mahaphanit -->
         <div class="description">
           <b>{author}</b>
           , {postWM} ({year}). {description}
@@ -47,6 +51,7 @@
           {/if}
         </div>
       {:else}
+        <!-- Mahaphanit only e.g. for talks -->
         <div class="description">
           <b>{author}</b>
           ({year}). {description}
