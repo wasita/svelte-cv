@@ -4,7 +4,7 @@
 </script>
 
 <div>
-  {#each details as { preWM, postWM, year, author, description, joint, onlyTwo, link }}
+  {#each details as { preWM, postWM, year, author, description, joint, onlyTwo, journal, link }}
     <PressieDetail
       {preWM}
       {author}
@@ -13,6 +13,7 @@
       {description}
       {joint}
       {onlyTwo}
+      {journal}
       {link}
     />
   {/each}

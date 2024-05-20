@@ -2,10 +2,11 @@
   export let description;
   export let preWM;
   export let postWM;
-  export let author = "Mahaphanit, W.";
+  export let author = `Mahaphanit, W.`;
   export let year;
   export let joint;
   export let onlyTwo;
+  export let journal;
   export let link;
 </script>
 
@@ -16,8 +17,11 @@
         <!-- joint/co-first author -->
         <div class="description">
           {preWM}
-          <b>{author}*</b>
-          , {postWM} ({year}). {description}
+          <b>{author}</b>
+          *, {postWM} ({year}). {description}
+          {#if journal}
+            <i>{journal}</i>
+          {/if}
           {#if link}
             <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
           {/if}
@@ -27,6 +31,9 @@
         <div class="description">
           <b>{author}</b>
           & {postWM} ({year}). {description}
+          {#if journal}
+            <i>{journal}</i>
+          {/if}
           {#if link}
             <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
           {/if}
@@ -37,6 +44,9 @@
           {preWM},
           <b>{author}</b>
           , {postWM} ({year}). {description}
+          {#if journal}
+            <i>{journal}</i>
+          {/if}
           {#if link}
             <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
           {/if}
@@ -46,6 +56,9 @@
         <div class="description">
           <b>{author}</b>
           , {postWM} ({year}). {description}
+          {#if journal}
+            <i>{journal}</i>
+          {/if}
           {#if link}
             <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
           {/if}
@@ -55,6 +68,9 @@
         <div class="description">
           <b>{author}</b>
           ({year}). {description}
+          {#if journal}
+            <i>{journal}</i>
+          {/if}
           {#if link}
             <a href={link} target="_blank" rel="noopener noreferrer">[PDF]</a>
           {/if}

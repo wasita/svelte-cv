@@ -146,52 +146,7 @@
     },
     {
       type: "pressie-details",
-      label: "Preprints",
-      details: [
-        {
-          year: "2024",
-          preWM: "",
-          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.X.D.",
-          joint: true,
-          description: "When and why does shared reality generalize?",
-          link: "https://osf.io/preprints/psyarxiv/g9p3e",
-        },
-        ,
-      ],
-    },
-    {
-      type: "pressie-details",
-      label: "Papers",
-      details: [
-        {
-          year: "2024",
-          preWM: "",
-          postWM: "Welker, C.L.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
-          joint: true,
-          description:
-            "When and why does shared reality generalize? Proceedings of the 46th Annual Conference of the Cognitive Science Society.",
-        },
-        {
-          year: "2023",
-          preWM: "Culbreth, A., Moran, E.",
-          postWM:
-            "Erickson, M., Boudewyn, M., Frank, M.J., Barch, D., MacDonald III, A., Ragland, J., Luck, S., Silverstein, S., Carter, C., & Gold, J.",
-          description:
-            "A Transdiagnostic Study of Effort-Cost Decision-Making in Psychotic and Mood Disorders. Schizophrenia Bulletin.",
-        },
-        {
-          year: "2021",
-          preWM: "Provenza, N.R., Gelin, L.",
-          postWM:
-            "McGrath, M., Dastin-van Rijin, E., Fan, Y., Dhar, R., Frank, M.J., Restrepo, M.I., Goodman, W.K., and Borton, D.",
-          description:
-            "Honeycomb: a template for reproducible psychophysiological tasks for clinic, laboratory, and home use. Brazillian Journal of Psychiatry.",
-        },
-      ],
-    },
-    {
-      type: "pressie-details",
-      label: "Papers in Preparation",
+      label: "Working Papers",
       details: [
         {
           year: "In prep.",
@@ -206,7 +161,7 @@
           postWM: "Chang, L.J.",
           onlyTwo: true,
           description:
-            "Communication as behavioral annotations for experimental stimuli",
+            "Communication as behavioral annotations for experimental stimuli.",
         },
         {
           year: "In prep.",
@@ -214,14 +169,77 @@
           postWM:
             "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
           description:
-            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty",
+            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty.",
         },
         {
           year: "In prep.",
           preWM: "",
           postWM: "Geana, A., and Frank, M.J.",
           description:
-            "Perceptual uncertainty disrupts credit assignment in stimulus value learning and perceptual categorization",
+            "Perceptual uncertainty disrupts credit assignment in stimulus value learning and perceptual categorization.",
+        },
+      ],
+    },
+    {
+      type: "pressie-details",
+      label: "Preprints",
+      details: [
+        {
+          year: "2024",
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
+          joint: true,
+          description: "When and why does shared reality generalize?",
+          journal: "PsyArXiv",
+          link: "https://osf.io/preprints/psyarxiv/g9p3e",
+        },
+        ,
+      ],
+    },
+    {
+      type: "pressie-details",
+      label: "Proceedings Papers",
+      details: [
+        {
+          year: "2024",
+          preWM: "",
+          postWM: "Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D.",
+          joint: true,
+          journal:
+            "Proceedings of the 46th Annual Conference of the Cognitive Science Society.",
+          description: "When and why does shared reality generalize?",
+        },
+        {
+          year: "2024",
+          preWM: "",
+          postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D.",
+          journal:
+            "Proceedings of the 7th Annual Conference on Cognitive Computational Neuroscience (CCN).",
+          description: "How does shared reality generalize?",
+        },
+      ],
+    },
+    {
+      type: "pressie-details",
+      label: "Journal Papers",
+      details: [
+        {
+          year: "2023",
+          preWM: "Culbreth, A., Moran, E.",
+          postWM:
+            "Erickson, M., Boudewyn, M., Frank, M.J., Barch, D., MacDonald III, A., Ragland, J., Luck, S., Silverstein, S., Carter, C., & Gold, J.",
+          journal: "Schizophrenia Bulletin.",
+          description:
+            "A Transdiagnostic Study of Effort-Cost Decision-Making in Psychotic and Mood Disorders.",
+        },
+        {
+          year: "2021",
+          preWM: "Provenza, N.R., Gelin, L.",
+          postWM:
+            "McGrath, M., Dastin-van Rijin, E., Fan, Y., Dhar, R., Frank, M.J., Restrepo, M.I., Goodman, W.K., and Borton, D.",
+          description:
+            "Honeycomb: a template for reproducible psychophysiological tasks for clinic, laboratory, and home use.",
+          journal: "Brazillian Journal of Psychiatry.",
         },
       ],
     },
@@ -323,17 +341,17 @@
         {
           preWM: "",
           postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D.",
-          year: "August 2024",
+          year: "August 2024 - Forthcoming",
           description:
-            "How does shared reality generalize? Submitted to the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
+            "How does shared reality generalize? Presented at the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
         },
         {
           preWM: "Kang, J.",
           postWM:
             "Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S.",
-          year: "June 2024",
+          year: "June 2024 - Forthcoming",
           description:
-            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty. Submitted to the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
+            "The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty. Presented at the American Society for Stereotactic & Functional Neurosurgery (ASSFN). Nashville, TN.",
         },
         {
           postWM: "Hawkins, R.D., Phillips, J.S., & Chang, L.J.",
@@ -382,7 +400,7 @@
             "Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., & Goodman, W.",
           year: "April 2019",
           description:
-            "Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder. Presented at the 5th Annual BRAIN Investigator’s Meeting. Washington, DC.",
+            "Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder. Presented at the 5th Annual BRAIN Initiative Investigators Meeting. Washington, DC.",
         },
       ],
     },
@@ -392,11 +410,11 @@
       details: [
         {
           year: "July 2024",
-          description: "Neukom Travel Award ($1,000) | Dartmouth College",
+          description: "Neukom Travel Award | Dartmouth College | $1,000",
         },
         {
           year: "April 2023",
-          description: "Neukom Travel Award ($1,000) | Dartmouth College",
+          description: "Neukom Travel Award | Dartmouth College | $1,000",
         },
         {
           year: "April 2022",
@@ -404,15 +422,11 @@
         },
         {
           year: "May 2018",
-          description: "B.S. in Cognitive Neuroscience with Honors",
-        },
-        {
-          year: "May 2018",
-          description: "Sigma Xi | Nominated to Brown University Chapter",
+          description: "Sigma Xi | Inductee",
         },
         {
           year: "January 2018",
-          description: "Deep Learning Datathon @ Brown University | 1st Place",
+          description: "Deep Learning Datathon | Brown University | 1st Place",
         },
         {
           year: "2014",
@@ -431,12 +445,12 @@
         {
           year: "Summer 2017",
           description:
-            "Karen T. Romer Undergraduate Teaching & Research Award ($3,500) | Brown University",
+            "Karen T. Romer Undergraduate Teaching & Research Award | Brown University | $3,500",
         },
         {
           year: "Spring 2014",
           description:
-            "Karen T. Romer Undergraduate Teaching & Research Award ($1,000) | Brown University",
+            "Karen T. Romer Undergraduate Teaching & Research Award | Brown University | $1,000",
         },
         {
           year: "2015-2017",
@@ -446,7 +460,7 @@
         {
           year: "Spring 2014",
           description:
-            "Junior Volunteer Endowment Scholarship ($2,000) | Maine Medical Center",
+            "Junior Volunteer Endowment Scholarship | Maine Medical Center | $2,000",
         },
       ],
     },
@@ -462,7 +476,7 @@
         {
           year: "April 2023",
           description:
-            "Podcast Guest | Svelte Radio | Svelte in Research at Dartmouth with Wasita & Eshin",
+            "Podcast Guest | Svelte Radio |Episode: Svelte in Research at Dartmouth with Wasita & Eshin",
         },
         {
           year: "2022-Present",
