@@ -1,7 +1,7 @@
 <script>
   export let detail;
   let { isLink, type, text, url, icon } = detail;
-  let defaultIcon = "fa fa-moon";
+  let defaultIcon = "fa fa-star-and-crescent";
   const fontAwesomeIconMap = {
     location: "fa fa-map-marker-alt",
     email: "fa fa-envelope",

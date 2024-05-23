@@ -409,6 +409,11 @@
       label: "Awards & Honors",
       details: [
         {
+          year: "2024",
+          description:
+            "Diversity & Inclusion Conference Award | Cognitive Science Society | $1,000",
+        },
+        {
           year: "July 2024",
           description: "Neukom Travel Award | Dartmouth College | $1,000",
         },
