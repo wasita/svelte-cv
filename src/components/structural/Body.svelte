@@ -8,7 +8,7 @@
       details: [
         {
           description:
-            "How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I employ a range of techniques, including large-scale real-time online behavioral experiments, natural language processing (NLP), and computational modeling.",
+            "How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I primarily use large-scale real-time online behavioral experiments, natural language processing (NLP), and computational modeling.",
         },
       ],
     },
@@ -21,7 +21,8 @@
           subtitle: "Ph.D. Candidate in Cognitive Neuroscience",
           dates: "2021 — Present",
           location: "Hanover, NH",
-          description: "Advisor: Luke J. Chang",
+          description:
+            "Committee: Luke J. Chang, Jonathan S. Phillips, Thalia Wheatley, & Robert D. Hawkins",
         },
         {
           title: "Brown University",
@@ -250,10 +251,10 @@
         {
           year: "September 2024 - Forthcoming",
           description:
-            "Collaboratively learning to communicate a shared wavelength. Lab Meeting (PIs: Matthew Apps, Romy Froemer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
+            "When and why does shared reality generalize? Lab Meeting (PIs: Matthew Apps, Romy Frömer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
         },
         {
-          year: "July 2024 - Forthcoming",
+          year: "July 2024",
           description:
             "When and why does shared reality generalize? Cognitive Science Society conference at Rotterdam, Netherlands.",
         },
@@ -341,7 +342,7 @@
         {
           preWM: "",
           postWM: "Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D.",
-          year: "August 2024 - Forthcoming",
+          year: "August 2024",
           description:
             "How does shared reality generalize? Presented at the 7th annual conference on Cognitive Computational Neuroscience (CCN). Boston, MA.",
         },
@@ -371,7 +372,7 @@
           year: "July 2023",
           onlyTwo: true,
           description:
-            "Shared experiences strengthen social connectedness through shared impression formation and communication behavior. Presented at the Cognitive Science Society (CogSci). Sydney, Australia.",
+            "Shared experiences strengthen social connectedness through shared impression formation and communication behavior. Presented virtually at the Cognitive Science Society (CogSci). Sydney, Australia.",
         },
         {
           postWM: "Chang, L.J.",
@@ -481,7 +482,7 @@
         {
           year: "April 2023",
           description:
-            "Podcast Guest | Svelte Radio |Episode: Svelte in Research at Dartmouth with Wasita & Eshin",
+            "Podcast Guest | Svelte Radio | Episode: Svelte in Research at Dartmouth with Wasita & Eshin",
         },
         {
           year: "2022-Present",
@@ -544,12 +545,12 @@
       label: "Professional & Departmental Service",
       details: [
         {
-          year: "2021-Present",
+          year: "2021-2024",
           description:
             "Social Lab (SLAB) Talk Series Co-organizer | Dartmouth PBS",
         },
         {
-          year: "2021-Present",
+          year: "2021-2024",
           description:
             "Consortium for Interacting Minds (CIM) Seminar Series Co-organizer | Dartmouth PBS",
         },
