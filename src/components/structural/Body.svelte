@@ -45,9 +45,9 @@
           link: "cosanlab.com",
           dates: "2021 — Present",
           location: "Hanover, NH",
-          advisor: "Advisor: Luke J. Chang",
+          advisor: "Co-Advisors: Luke J. Chang & Robert D. Hawkins",
           research:
-            "Research focuses: collaboration, communication, theory of mind, dyadic & group social interactions, social networks, fMRI",
+            "Research focuses: shared reality/experience, collaboration, communication, theory of mind, dyadic & group social interactions, NLP, Bayesian inference",
         },
         {
           title: "Lab Manager/Research Assistant",
