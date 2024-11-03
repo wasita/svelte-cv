@@ -19,7 +19,7 @@
         {
           title: "Dartmouth College",
           subtitle: "Ph.D. Candidate in Cognitive Neuroscience",
-          dates: "2021 — Present",
+          dates: "Jan 2021 — Present",
           location: "Hanover, NH",
           description:
             "Committee: Luke J. Chang, Jonathan S. Phillips, Thalia Wheatley, & Robert D. Hawkins",
@@ -43,7 +43,7 @@
             "Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)",
           url: "cosanlab.com",
           link: "cosanlab.com",
-          dates: "2021 — Present",
+          dates: "Jan 2021 — Present",
           location: "Hanover, NH",
           advisor: "Co-Advisors: Luke J. Chang & Robert D. Hawkins",
           research:
@@ -78,7 +78,7 @@
           institution: "Providence VA Medical Center",
           url: "https://vivo.brown.edu/display/nphilip",
           link: "vivo.brown.edu/display/nphilip",
-          dates: "2016 — 2018",
+          dates: "May 2016 — Sept 2016",
           location: "Providence, RI",
           advisor: "Advisor: Noah Philip",
           research:
@@ -149,6 +149,14 @@
       type: "pressie-details",
       label: "Working Papers",
       details: [
+        {
+          year: "In prep.",
+          preWM: "",
+          postWM: "C. Welker*, H. Schmidt, L.J. Chang, & R.D. Hawkins",
+          joint: true,
+          description:
+            "Inferring shared beliefs and commonalities in conversation.",
+        },
         {
           year: "In prep.",
           preWM: "",
@@ -249,9 +257,9 @@
       label: "Talks",
       details: [
         {
-          year: "September 2024 - Forthcoming",
+          year: "November 2024 - Forthcoming",
           description:
-            "When and why does shared reality generalize? Lab Meeting (PIs: Matthew Apps, Romy Frömer, Arkady Konovalov, Patricia Lockwood, & Lei Zhang), University of Birmingham, Birmingham, UK.",
+            "When and how do we infer commonalities in conversation? Crockett Lab Meeting (PI: Molly Crockett), Princeton University, Princeton, NJ.",
         },
         {
           year: "July 2024",
@@ -409,6 +417,10 @@
       type: "honors-details",
       label: "Awards & Honors",
       details: [
+        {
+          year: "July 2025",
+          description: "Neukom Travel Award | Dartmouth College | $1,000",
+        },
         {
           year: "2024",
           description:
